@@ -13,6 +13,6 @@ Project From Database Management Class
 # ScreenShot
 
 ![alt text](screenshots/Conditioninglog.JPG "Conditioning Log")
-![alt text](screenshots/index.JPG "Home")
+![alt text](screenshots/index.jpg "Home")
 ![alt text](screenshots/Login.JPG "Login")
 ![alt text](screenshots/Signup.JPG "Signup")
