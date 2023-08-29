@@ -10,7 +10,7 @@ Project From Database Management Class
   ![alt text](screenshots/RunVie.JPG "Run vie.sql")
 - To access go to localhost/Vie-Fitness-1.0/index.php
 
-# ScreenShot
+# ScreenShots
 
 ![alt text](screenshots/Conditioninglog.JPG "Conditioning Log")
 ![alt text](screenshots/index.jpg "Home")
